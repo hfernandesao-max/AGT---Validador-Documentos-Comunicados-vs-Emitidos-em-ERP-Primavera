@@ -1,0 +1,6 @@
+.env
+*.pem
+*.key
+saida/
+__pycache__/
+.venv/
